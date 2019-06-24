@@ -13,7 +13,7 @@ def link
   puts warning
 end
 
-def any_phrase
-  ahsan = "shut up"
-  puts ahsan
+def any_phrase(phrase)
+  
+  puts #{phrase}
 end
